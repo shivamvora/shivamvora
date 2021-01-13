@@ -3,6 +3,10 @@
 <!--
 **shivamvora/shivamvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+-->
+
 # about me
 ### Hello..! :smiley:  I'm Shivam vora from rajkot :man:👋
 I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to learn Languages and Frameworks like PHP, JavaScript, Jquery, Angular, React., as well as working on C# asp.net.
@@ -81,6 +85,3 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 [linkedin]:  https://www.linkedin.com/in/shivam-vora-79565a198
 [behance]: https://www.behance.net/shivam_vora
 
-
-
--->
