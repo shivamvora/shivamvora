@@ -12,14 +12,14 @@
 I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to learn Languages and Frameworks like PHP, JavaScript, Jquery, Angular, React., as well as working on C# asp.net.
 ## I'm a Developer, Self Learner and RND Person!!
 
-- 🔭 I’m currently working asweb Developer.
+- 🔭 I’m currently working as web Developer.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Angular&Firebase documentation
 - 💬 Ask me about PHP and JavaScript. :question:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Self Learn and Listen Music.
-
+- best way to reach me :- [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  ---
 ### Connect with me :blush:
 [<img align="left" alt="mokammeltanvir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
