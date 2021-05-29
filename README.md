@@ -93,6 +93,11 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 [linkedin]:  https://www.linkedin.com/in/shivam-vora-79565a198
 [behance]: https://www.behance.net/shivam_vora
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkhalide&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkhalide&show_icons=true&locale=en" alt="coderkhalide" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkhalide&" alt="coderkhalide" /></p>
 
 
 
