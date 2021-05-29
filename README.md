@@ -23,7 +23,7 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
  ---
  [![Twitter: shivam vora](https://img.shields.io/twitter/follow/shivam?style=social)](https://twitter.com/shivamp29995687)
 [![Linkedin: shivam vora](https://img.shields.io/badge/-shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-vora-79565a198/)](https://www.linkedin.com/in/shivam-vora-79565a198/)
-[![GitHub shivamvora](https://img.shields.io/github/followers/iampawan?)](https://github.com/shivamvora)
+[![GitHub shivamvora](https://img.shields.io/github/shivamvora/iampawan?label=follow&style=social)](https://github.com/shivamvora)
 ### Connect with me :blush:
 [<img align="left" alt="mokammeltanvir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mokammeltanvir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
