@@ -21,9 +21,9 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 - ⚡ Fun fact: I love to Self Learn and Listen Music.
 -  best way to reach me  [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  ---
- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-vora-79565a198/)](https://www.linkedin.com/in/shivam-vora-79565a198/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/shivamvora)
+ [![Twitter: shivam vora](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/shivamp29995687)
+[![Linkedin: shivam vora](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-vora-79565a198/)](https://www.linkedin.com/in/shivam-vora-79565a198/)
+[![GitHub shivamvora](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/shivamvora)
 ### Connect with me :blush:
 [<img align="left" alt="mokammeltanvir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mokammeltanvir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
