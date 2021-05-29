@@ -93,9 +93,10 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 [linkedin]:  https://www.linkedin.com/in/shivam-vora-79565a198
 [behance]: https://www.behance.net/shivam_vora
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora)](https://github.com/shivamvora/github-readme-stats)
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora&count_private=true)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora&show_icons=true&theme=dracula)
+
 
 
 
