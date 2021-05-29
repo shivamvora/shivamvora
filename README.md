@@ -30,7 +30,8 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 [<img align="left" alt="mokammeltanvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mokammeltanvir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mokammeltanvir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mokammeltanvir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 
 ---
@@ -74,7 +75,7 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 
 <br  />
 
----
+
 
   
 
@@ -95,10 +96,11 @@ I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to lea
 [facebook]:  https://www.facebook.com/shivam.vora.184/
 [linkedin]:  https://www.linkedin.com/in/shivam-vora-79565a198
 [behance]: https://www.behance.net/shivam_vora
+[skype]: https://join.skype.com/invite/YzGdM3uSfxzM
 
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora&show_icons=true&theme=dracula)
 
 
 
-
+---
