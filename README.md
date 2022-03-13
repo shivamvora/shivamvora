@@ -9,7 +9,7 @@
 
 # about me
 ### Hello..! :smiley:  I'm Shivam vora :man:👋
-I'm from Rajkot,Gujarat,and I do Web Design & Development. I really enjoy to learn Languages and Frameworks like PHP, JavaScript, Jquery, Angular, React., as well as working on C# asp.net.
+I'm from Rajkot,Gujarat,and I do MERN Development.
 ## I'm a Developer, Self Learner and RND Person!!
 
 - 🔭 I’m currently working as web Developer.
