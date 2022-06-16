@@ -9,11 +9,9 @@
 
 # about me
 ### Hello..! :smiley:  I'm Shivam vora :man:👋
-I'm from Rajkot,Gujarat,and I do MERN Development.
-## I'm a Developer, Self Learner and RND Person!!
 
-- 🔭 I’m currently working as web Developer.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working as MERN Developer & Chrome Extension Developer.
+- 🌱 I’m currently learning AWS & DOCKER.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Angular&Firebase documentation
 - 💬 Ask me about PHP and JavaScript. :question:
