@@ -10,12 +10,8 @@
 # about me
 ### Hello..! :smiley:  I'm Shivam vora :man:👋
 
-- 🔭 I’m currently working as MERN Developer & Chrome Extension Developer.
-- 🌱 I’m currently learning AWS & DOCKER.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Angular&Firebase documentation
+- 🔭 I’m currently working as Fullstack Developer.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Self Learn and Listen Music.
 -  best way to reach me  [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  ---
  [![Twitter: shivam vora](https://img.shields.io/twitter/follow/shivam?style=social)](https://twitter.com/shivamp29995687)
