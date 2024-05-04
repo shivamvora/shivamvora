@@ -7,10 +7,10 @@
 
 -->
 
-# about me
+# About me
 ### Hello..! :smiley:  I'm Shivam vora :man:👋
 
-- 🔭 I’m currently working as Fullstack Developer.
+- 🔭 Welcome to my GitHub profile! I'm a passionate fullstack developer with a strong interest in Web Development and SAAS projects, specializing in React, NextJs, NodeJs and ExpressJs. I love coding and building robust and dynamic web applications that deliver exceptional user experiences.
 - 😄 Pronouns: He/His
 -  best way to reach me  [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  ---
