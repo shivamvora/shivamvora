@@ -11,8 +11,8 @@
 ### Hello..! :smiley:  I'm Shivam vora :man:👋
 
 - Welcome to my GitHub profile! I'm a passionate fullstack developer with a strong interest in Web Development and SAAS projects, specializing in React, NextJs, NodeJs and ExpressJs. I love coding and building robust and dynamic web applications that deliver exceptional user experiences.
-- 😄 Pronouns: He/His
--  best way to reach me  [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Pronouns: He/His
+- Contact me [<img align="left" alt="mokammeltanvir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  ---
  [![Twitter: shivam vora](https://img.shields.io/twitter/follow/shivam?style=social)](https://twitter.com/shivamp29995687)
 [![Linkedin: shivam vora](https://img.shields.io/badge/-shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-vora-79565a198/)](https://www.linkedin.com/in/shivam-vora-79565a198/)
