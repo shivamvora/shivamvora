@@ -92,8 +92,4 @@
 [skype]: https://join.skype.com/invite/YzGdM3uSfxzM
 
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvora&show_icons=true&theme=dracula)
-
-
-
 ---
